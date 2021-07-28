@@ -12,7 +12,7 @@ CentOS 7.7, Ubuntu 18.04
 ## Tested Hypervisors
 RedHat KVM, Citrix XenServer, Citrix Hypervisor, Nutanix AHV
 
-As much as I would like to add support for VMware vSphere, the system details and metrics that I can collect without expert insider knowledge would be insufficient to make it useful so I have been able to add support for vSphere. 
+As much as I would like to add support for VMware vSphere, the system details and metrics that I can collect without expert insider knowledge would be insufficient to make it useful so I have not been able to add support for vSphere. 
 
 If you have said expert knowledge and wish to help get vSphere support please contact me.
 
