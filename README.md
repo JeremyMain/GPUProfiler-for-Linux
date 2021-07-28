@@ -11,7 +11,9 @@ Console only, no UI support.
 
 ## Examples
 Example output as viewed in GPUProfiler for Windows.
-TODO
+
+Training a Neural Network on a DGX-1 with 8x V100 GPUs (Showing one hour)
+![image](https://user-images.githubusercontent.com/19617537/127305628-c707d949-d06d-4b2b-bd16-b4f7ae20f6d5.png)
 
 ## Usage
 
