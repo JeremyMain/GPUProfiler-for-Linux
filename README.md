@@ -5,7 +5,7 @@ This is a basic, no fluf version of GPUProfiler for Linux that will allow you to
 The console based application will collect and save a .GPD file that can be viewed in GPUProfiler for Windows or exported to CSV as input to your favorite data cruncher.
 
 ### Releases
-The current release is [v.1.07b (March 2020)](https://github.com/JeremyMain/GPUProfiler-for-Linux/releases/tag/v1.07b)
+The current release is [v.1.07b (March 2020)](https://github.com/JeremyMain/GPUProfiler-for-Linux/releases/tag/v1.07b) and should be considered to be of beta quality.
 
 ## Tested Linux distributions
 CentOS 7.7, Ubuntu 18.04
