@@ -1,6 +1,6 @@
 # GPUProfiler-for-Linux
 
-This is a basic, no fluf version of GPUProfiler for Linux that will allow you to capture and analyse the resource utilization of various workloads on Linux systems.
+This is a basic, no fluf version of GPUProfiler for Linux that will allow you to capture and analyse the resource utilization of various workloads on Linux systems and select hypervisors.
 
 The console based application will collect and save a .GPD file that can be viewed in [GPUProfiler for Windows](https://github.com/JeremyMain/GPUProfiler) or exported to CSV as input to your favorite data cruncher.
 
