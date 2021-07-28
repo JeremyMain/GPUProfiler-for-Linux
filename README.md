@@ -2,7 +2,7 @@
 
 This is a basic, no fluf version of GPUProfiler for Linux that will allow you to capture and analyse the resource utilization of various workloads on Linux systems.
 
-The console based application will collect and save a .GPD file that can be viewed in GPUProfiler for Windows or exported to CSV as input to your favorite data cruncher.
+The console based application will collect and save a .GPD file that can be viewed in [GPUProfiler for Windows](https://github.com/JeremyMain/GPUProfiler) or exported to CSV as input to your favorite data cruncher.
 
 ### Releases
 The current release is [v.1.07b (March 2020)](https://github.com/JeremyMain/GPUProfiler-for-Linux/releases/tag/v1.07b) and should be considered to be of beta quality.
@@ -27,7 +27,7 @@ Currently does not capture data for hardware configurations without an NVIDIA GP
 
 
 ## Examples
-Example output as viewed in GPUProfiler for Windows.
+Example output as viewed in [GPUProfiler for Windows](https://github.com/JeremyMain/GPUProfiler)
 
 Training a Neural Network on a DGX-1 with 8x V100 GPUs (Showing one hour)
 ![image](https://user-images.githubusercontent.com/19617537/127305628-c707d949-d06d-4b2b-bd16-b4f7ae20f6d5.png)
